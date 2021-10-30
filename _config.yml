@@ -20,7 +20,7 @@ title                    : "Rooney's Blog & Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Rooney Hwang"
-description              : "AI, data science developer. such Fun"
+description              : "Programming using Java, Python."
 url                      : "https://rib-president.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Rooney Hwang"
   avatar           : "/assets/images/butflower.jpg"
-  bio              : "AI, data developer. such Fun"
+  bio              : "Programming using Java, Python."
   location         : "Seoul, South Korea"
   email            :
   links:
