@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: Algorithm
 ---
 
-#### Python 알고리즘 연습
+#### 알고리즘 연습

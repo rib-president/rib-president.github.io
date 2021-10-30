@@ -2,8 +2,10 @@
 main:
   - title: "Intro"
     url: /Intro/
-  - title: "Project"
-    url: /categories/Project/
+  - title: "AI Project"
+    url: /categories/AI Project/
+  - title: "Study"
+    url: /categories/Study/
   - title: "Algorithm"
     url: /categories/Algorithm/
   # - title: "Sample Collections"
