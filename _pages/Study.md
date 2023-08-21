@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: Study
 ---
 
-#### 매주 공부한 내용 정리
+#### 2021-10 ~ 2022-02 공부한 내용 정리

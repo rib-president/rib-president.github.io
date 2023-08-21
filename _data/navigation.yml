@@ -2,8 +2,8 @@
 main:
   - title: "Intro"
     url: /Intro/
-  - title: "AI Project"
-    url: /categories/AI Project/
+  - title: "Project"
+    url: /categories/Project/
   - title: "Study"
     url: /categories/Study/
   - title: "Algorithm"
